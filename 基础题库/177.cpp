@@ -3,7 +3,7 @@
 int main()
 {
 	char a[101];
-	gets(a);//xdoj²»ÈÏ'gets_s'²»ÓÃÔËĞĞÖ±½ÓÌá½»¼´¿É£¨VSÓÃ»§£©
+	gets(a);//xdojä¸è®¤'gets_s'ä¸ç”¨è¿è¡Œç›´æ¥æäº¤å³å¯ï¼ˆVSç”¨æˆ·ï¼‰
 	int sum = 0;
 	for (int i = 0; a[i] != '\0'; i++)
 	{
