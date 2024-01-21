@@ -16,4 +16,4 @@ int main()
 	}
 	printf("%d", nub);
 	return 0;
-}//只有60分，开摆
+}
